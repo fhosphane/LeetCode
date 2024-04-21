@@ -1,6 +1,6 @@
 class Solution:
     def mySqrt(self, x: int) -> int:
         num = 0
-        while not (x>=num ** 2 and x<(num+1) ** 2):
+        while not x<(num+1) ** 2:
             num += 1
         return num
