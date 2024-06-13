@@ -1,7 +1,6 @@
 class Solution:
     def minMovesToSeat(self, seats: List[int], students: List[int]) -> int:
-        b = 0
-        for a in range(0,len(seats)):
-            b += abs(sorted(seats)[a] - sorted(students)[a])
-        return b
+        seats.sort()
+        students.sort()
+        return sum(abs(seat - student) for seat, student in zip(seats, students))
     
