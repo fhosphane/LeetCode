@@ -9,6 +9,7 @@ Benim LeetCode cozumlerim
 | [0001-two-sum](https://github.com/fhosphane/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/fhosphane/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/fhosphane/LeetCode/tree/master/0134-gas-station) |
+| [0162-find-peak-element](https://github.com/fhosphane/LeetCode/tree/master/0162-find-peak-element) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/fhosphane/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fhosphane/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## String
@@ -40,6 +41,7 @@ Benim LeetCode cozumlerim
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/fhosphane/LeetCode/tree/master/0162-find-peak-element) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/fhosphane/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
